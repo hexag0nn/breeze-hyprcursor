@@ -1,0 +1,7 @@
+resize_algorithm = none
+hotspot_x = 1
+hotspot_y = 0.65
+
+define_size = 0, sb_right_arrow.svg
+
+define_override = right_arrow

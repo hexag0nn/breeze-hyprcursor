@@ -1,0 +1,4 @@
+name = breeze-hyprcursor-fix
+description = Breeze remixed to Hyprcursor format with a fix
+version = 0.2.0
+cursors_directory = hyprcursors_uncompressed
